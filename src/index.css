@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2023/04/18/20/21/flowers-7935944_1280.jpg");
+} 
